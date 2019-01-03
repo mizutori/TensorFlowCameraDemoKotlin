@@ -8,11 +8,9 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/
 After finishing the first session, if you want to go further to learn how to run the tesnor flow model on an Android device,  
 there is a very good tutorial - "TensorFlow for poets 2: TFLite Android".  
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/#0  
-  
-The tutorial is very well writtend, and so doe the sample Android app project. 
-  
-The sample is written in Android, and I thought it's nice to have it in Kotlin.
-  
-I spent a couple of days and rewrote the code in Kotlin as well as replacing all the deprecated classes and methods with newer ones.
-  
-If you will find any bugs or things to improve, feel free to contact me. 
+   
+The sample code is very well written but written in Java.  
+I spent a couple of days and rewrote the code in Kotlin as well as replacing all the deprecated classes and methods with newer ones.  
+
+It should be easy to read (sice the original code is very good), and you can use it easily to your Kotlin projects. 
+But in case you  find any bug or code to improve, please let me know.   
